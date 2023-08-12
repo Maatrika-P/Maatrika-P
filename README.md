@@ -23,7 +23,7 @@ I'm open to collaborating on exciting projects. If you have any interesting idea
 ## Contact Me 📬
 You can reach me through the following channels:
 
-- 📧 Email: maatrikap@gmail.com
+- 📧 Email: maatrikap2203@gmail.com
 - 👥 LinkedIn: https://www.linkedin.com/in/maatrikapammi/
 
 
