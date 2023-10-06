@@ -26,26 +26,6 @@ You can reach me through the following channels:
 - 📧 Email: maatrikap2203@gmail.com
 - 👥 LinkedIn: https://www.linkedin.com/in/maatrikapammi/
 
-<div ng-controller="GenericHackerRankController" data-method='badges' data-ignoreoffset='true'>
-
-    <span ng-show="!data.models.length">This user doesn't have badges yet.</span>
-
-    <div ng-repeat="badge in data.models">
-
-        <img class="hrBadgeImage" ng-src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/{{badge.image_url}}" title='{{badge.name}} badge'/>
-
-        <div class="hrBadgeContent">
-            <span>{{badge.name}}</span>
-            <span class="hrBadgeLevel">level {{badge.level}}</span>
-
-            <div class='hrBadgeProgress' title='{{badge.percentile}}th percentile'>
-                <div class="hrBadgeProgressBar" style='width:{{badge.percentile}}%'></div>
-            </div>
-        </div>
-    </div>
-
-</div>
-
 Feel free to connect with me if you have any questions, collaboration opportunities, or just want to say hello! 😊
 
 ## Acknowledgments 🙏
