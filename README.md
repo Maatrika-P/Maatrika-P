@@ -9,7 +9,7 @@ This GitHub profile is a platform to showcase my projects and contributions. Fee
 Here are some of the skills and technologies I'm proficient in:
 
 - Programming languages: Python, Java, Sql, C
-- Frameworks and libraries: Tensorflow, Pytorch, OpenCV, Scikit Learn, Pandas
+- Frameworks and libraries: Tensorflow, Pytorch, OpenCV, Scikit Learn, Pandas, GWpy, PyCBC
 - Tools and technologies: Scipy, BeautifulSoup, Numpy, NLTK, Vosk 
 
 
