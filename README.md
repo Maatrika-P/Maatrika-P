@@ -17,7 +17,7 @@ Here are some of the skills and technologies I'm proficient in:
 - 🌱 Currently, I'm learning Deep Learning Frameworks, as well as tools like QGIS and Geosapatial libraries such as GeoPandas, Rasterio, PyQGIS, and GDAL.
 
 ## Experience 💼
-I'm currently an intern at Suhora Technologies, working as a Data Scientist Intern.
+I was a Data Scientist Intern at Suhora Technologies for 6 months.
 
 ## Collaboration 👥
 I'm open to collaborating on exciting projects. If you have any interesting ideas or opportunities, feel free to reach out!
