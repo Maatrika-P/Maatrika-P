@@ -1,10 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Maatrika%20Pammi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%7C%20AI%20Systems%20Builder&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Maatrika%20P&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%7C%20AI%20Systems%20Builder&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" width="100%"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Maatrika-P&color=7c3aed&style=flat-square&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/maatrikapammi/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail)](mailto:maatrikap2203@gmail.com)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-Models-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/Maatrika-P)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Building+end-to-end+AI+systems+for+Finance%2C+Defense+%26+Cybersecurity;LLMs+%C2%B7+Computer+Vision+%C2%B7+MLOps+%C2%B7+Deep+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Building+end-to-end+AI+systems+for+Finance%2C+Defense+%26+Cybersecurity;LLMs+%C2%B7+Computer+Vision+%C2%B7+MLOps+%C2%B7+Quantum+ML)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,16 +18,17 @@
 ## 🧠 About Me
 
 ```python
-class MaatrikaPammi:
+class MaatrikaP:
     def __init__(self):
         self.role        = "ML Engineer"
         self.experience  = "1.5 years in production AI/ML systems"
-        self.domains     = ["Finance & Quant", "Defense & Intel", 
-                            "Cybersecurity", "Computer Vision", 
-                            "Autonomous Systems"]
+        self.domains     = ["Finance & Quant", "Defense & Intel",
+                            "Cybersecurity", "Computer Vision",
+                            "Autonomous Systems", "Quantum ML"]
         self.building    = "End-to-end AI applications — data pipelines to dashboards"
-        self.interests   = ["LLMs & Agents", "Deep Learning", "Space Technologies"]
-        self.currently   = "Building 15 production-grade AI/ML/NLP projects"
+        self.interests   = ["LLMs & Agents", "Deep Learning",
+                            "Quantum Computing", "Space Technologies"]
+        self.currently   = "Classical ML → Deep Learning → LLMs → Quantum ML"
         self.contact     = "maatrikap2203@gmail.com"
 
     def __str__(self):
@@ -72,18 +78,26 @@ class MaatrikaPammi:
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge&logo=xgboost&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### LLM & NLP
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7C3AED?style=for-the-badge&logo=llama&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7C3AED?style=for-the-badge&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Computer Vision
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![YOLO](https://img.shields.io/badge/YOLOv9-00FFFF?style=for-the-badge&logoColor=black)
 ![CLIP](https://img.shields.io/badge/CLIP-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### ⚛️ Quantum Machine Learning
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
+![PennyLane](https://img.shields.io/badge/PennyLane-00C7B7?style=for-the-badge&logoColor=white)
+![TensorFlow Quantum](https://img.shields.io/badge/TF_Quantum-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Cirq](https://img.shields.io/badge/Cirq-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+> Exploring quantum-classical hybrid models, variational quantum circuits (VQC), and quantum advantage in optimization and finance.
 
 ### MLOps & Infra
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
@@ -104,32 +118,14 @@ class MaatrikaPammi:
 
 ---
 
-## 🚀 Project Domains
-
-<div align="center">
-
-| 🏦 Finance & Quant | 🛡️ Defense & Intel | 🔐 Cybersecurity |
-|:------------------:|:------------------:|:----------------:|
-| Trading signal engines | OSINT AI agents | Threat intel pipelines |
-| Credit risk models | Surveillance CV | Network intrusion detection |
-| Financial RAG Q&A | Synthetic data gen | CVE exploit prediction |
-
-| 🤖 Autonomous Systems | 🏭 Industrial AI | 🌐 Multimodal AI |
-|:--------------------:|:----------------:|:----------------:|
-| AV perception stacks | Predictive maintenance | VQA & visual search |
-| Behaviour detection | Visual quality control | Cross-modal retrieval |
-| Depth estimation | Supply chain ML | Multimodal RAG |
-
-</div>
-
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Maatrika-P&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maatrika-P&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Maatrika-P&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maatrika-P&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" height="165"/>
 
 <img src="https://streak-stats.demolab.com?user=Maatrika-P&theme=midnight-purple&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" height="150"/>
 
@@ -137,12 +133,38 @@ class MaatrikaPammi:
 
 ---
 
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Maatrika-P&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maatrika-P/Maatrika-P/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Maatrika-P/Maatrika-P/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Maatrika-P/Maatrika-P/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
+
+---
+
 ## 🌱 Currently
 
-- 🔨 Building **15 production-grade AI/ML projects** across finance, defense, CV, and NLP
-- 📚 Deep-diving into **LLM agents, RAG pipelines, and real-time ML systems**
-- 🌌 Exploring **AI × Space Technologies** intersections
-- 🤝 Open to collaborations on applied AI/ML projects with real-world impact
+- 🔨 Building **15 production-grade AI/ML/NLP projects** across finance, defense, CV, and cybersecurity
+- ⚛️ Exploring **Quantum ML** — variational circuits, quantum-classical hybrid models, QML for finance
+- 🌌 Interested in **AI × Space Technologies** intersections
+- 🤝 Open to collaborating on applied AI/ML projects with real-world impact
 
 ---
 
@@ -151,7 +173,7 @@ class MaatrikaPammi:
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-maatrikap2203%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maatrikap2203@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maatrika_Pammi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maatrikapammi/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maatrika_P-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maatrikapammi/)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Maatrika--P-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Maatrika-P)
 
 </div>
