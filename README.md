@@ -42,24 +42,24 @@ class MaatrikaP:
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **ML Engineer** · *Current Role*
-`2024 – Present` · 1.5 years
+`2023 – Present` · 1.5 years
 
 - Building end-to-end production ML pipelines
 - Deploying deep learning models at scale
-- Working across NLP, Computer Vision, and time-series forecasting
+- NLP · Computer Vision · Time-series forecasting
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 **Data Scientist** · *Internship*
-`Mar 2024 - Aug 2024` · 6 months
+`Mar 2024 – Aug 2024` · 6 months
 
 - Geospatial data analysis and ML modeling
-- Working with satellite imagery and space operations data
-- Python-based data pipelines and visualization
+- Satellite imagery and space operations data
+- Python data pipelines and visualization
 
 </td>
 </tr>
