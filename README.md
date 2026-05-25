@@ -55,7 +55,7 @@ class MaatrikaP:
 <td width="50%" valign="top">
 
 **Data Scientist** · *Internship*
-`Mar 2024 – Aug 2024` · 6 months
+`Mar 2024 – Aug 2024` . 6 months
 
 - Geospatial data analysis and ML modeling
 - Satellite imagery and space operations data
@@ -119,8 +119,6 @@ class MaatrikaP:
 
 ---
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -134,8 +132,6 @@ class MaatrikaP:
 
 ---
 
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -143,8 +139,6 @@ class MaatrikaP:
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Maatrika-P&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true)
 
 </div>
-
----
 
 ---
 
