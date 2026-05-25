@@ -40,7 +40,7 @@ class MaatrikaP:
 
 ## 💼 Experience
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -55,7 +55,7 @@ class MaatrikaP:
 <td width="50%" valign="top">
 
 **Data Scientist** · *Internship*
-`Mar 2024 – Aug 2024` . 6 months
+`Mar 2024 – Aug 2024` · 6 months
 
 - Geospatial data analysis and ML modeling
 - Satellite imagery and space operations data
