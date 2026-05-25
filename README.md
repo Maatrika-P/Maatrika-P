@@ -1,39 +1,36 @@
-<div align="center">
+# Welcome to My GitHub Profile! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=480&lines=Maatrika+P;Machine+Learning+Engineer;Computer+Vision+%C2%B7+Applied+Research)](https://git.io/typing-svg)
+## About Me ℹ️
+Hi, I'm Maatrika (@Maatrika-P). I'm passionate about [AI, Deep Learning, Space Technologies]. I enjoy coding and developing fun and interesting things.
 
-<br/>
+This GitHub profile is a platform to showcase my projects and contributions. Feel free to explore and collaborate! 🚀
 
-Object detection · Segmentation · Satellite & industrial imagery · End-to-end ML
+## Skills 🛠️
+Here are some of the skills and technologies I'm proficient in:
 
-<br/>
+- Programming languages: Python, Java, SQL, C
+- Frameworks and libraries: TensorFlow, PyTorch, OpenCV, Scikit-Learn, Pandas, GWpy, PyCBC
+- Tools and technologies: SciPy, BeautifulSoup, NumPy, NLTK, Vosk 
 
-<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="36" title="Python" />&nbsp;&nbsp;
-<img src="https://profilinator.rishav.dev/skills-assets/pytorch-original.svg" height="36" title="PyTorch" />&nbsp;&nbsp;
-<img src="https://profilinator.rishav.dev/skills-assets/opencv-original.svg" height="36" title="OpenCV" />&nbsp;&nbsp;
-<img src="https://profilinator.rishav.dev/skills-assets/numpy-original.svg" height="36" title="NumPy" />&nbsp;&nbsp;
-<img src="https://profilinator.rishav.dev/skills-assets/scikit_learn-original.svg" height="36" title="scikit-learn" />&nbsp;&nbsp;
-<img src="https://profilinator.rishav.dev/skills-assets/typescript-plain.svg" height="36" title="TypeScript" />&nbsp;&nbsp;
-<img src="https://profilinator.rishav.dev/skills-assets/docker-original.svg" height="36" title="Docker" />&nbsp;&nbsp;
-<img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="36" title="Linux" />&nbsp;&nbsp;
-<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="36" title="Git" />
+## Interests and Learning 🌟
+- 👀 I'm interested in various Space Technologies (focused on the efficiency of space operations) and AI applications (tools and developments).
+- 🌱 Currently, I'm learning Deep Learning Frameworks, as well as tools like QGIS and Geosapatial libraries such as GeoPandas, Rasterio, PyQGIS, and GDAL.
 
-<br/><br/>
+## Experience 💼
+I was a Data Scientist Intern at Suhora Technologies for 6 months.
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Maatrika-P&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maatrika-P&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-    </td>
-  </tr>
-</table>
+## Collaboration 👥
+I'm open to collaborating on exciting projects. If you have any interesting ideas or opportunities, feel free to reach out!
 
-<br/>
+## Contact Me 📬
+You can reach me through the following channels:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maatrikapammi/)&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maatrikap2203@gmail.com)
+- 📧 Email: maatrikap2203@gmail.com
+- 👥 LinkedIn: [Maatrika Pammi](https://www.linkedin.com/in/maatrikapammi/)
 
-</div>
+Feel free to connect with me if you have any questions, collaboration opportunities, or just want to say hello! 😊
+
+## Acknowledgments 🙏
+I would like to express my gratitude to the open-source community for their continuous support and inspiration. Your contributions and feedback have helped me grow as a developer. Thank you!
+
+---
