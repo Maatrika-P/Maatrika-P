@@ -54,8 +54,8 @@ class MaatrikaP:
 </td>
 <td width="50%">
 
-**Data Scientist Intern** · *Suhora Technologies*
-`6 months`
+**Data Scientist** · *Internship*
+`Mar 2024 - Aug 2024` · 6 months
 
 - Geospatial data analysis and ML modeling
 - Working with satellite imagery and space operations data
