@@ -1,11 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Maatrika%20P&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%7C%20AI%20Systems%20Builder&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Maatrika%20P&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%C2%B7%20Building%20AI%20That%20Ships&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Maatrika-P&color=7c3aed&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/maatrikapammi/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail)](mailto:maatrika.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail)](mailto:maatrikap2203@gmail.com)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Models-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/Maatrika-P)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-a78bfa?style=flat-square&logo=vercel&logoColor=white)](https://maatrika-p.vercel.app)
 
 <br/>
 
@@ -163,6 +164,7 @@ class MaatrikaP:
 [![Email](https://img.shields.io/badge/Email-maatrikap2203%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maatrikap2203@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maatrika_P-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maatrikapammi/)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Maatrika--P-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Maatrika-P)
+[![Portfolio](https://img.shields.io/badge/Portfolio-maatrika--p.vercel.app-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](https://maatrika-p.vercel.app)
 
 </div>
 
