@@ -45,7 +45,7 @@ class MaatrikaP:
 <td width="50%" valign="top">
 
 **ML Engineer** · *Current Role*
-`2023 – Present` · 1.5 years
+`2024 – Present` · 1.5 years
 
 - Building end-to-end production ML pipelines
 - Deploying deep learning models at scale
