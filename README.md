@@ -155,7 +155,7 @@ class MaatrikaP:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-maatrikap2203%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maatrikap2203@gmail.com)
+[![Email](https://img.shields.io/badge/Email-maatrika.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maatrikap2203@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maatrika_P-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maatrikapammi/)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Maatrika--P-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Maatrika-P)
 [![Portfolio](https://img.shields.io/badge/Portfolio-maatrika--p.vercel.app-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](https://maatrika-p.vercel.app)
